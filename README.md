@@ -1,6 +1,6 @@
 # Nathan's GitHub Profile
 
-👋 Hi there! Welcome to my GitHub profile. I'm Nathan Boquuet, a 2nd year student passionate about data science and AI.
+👋 Hi there! Welcome to my GitHub profile. I'm Nathan Bouquet, a 2nd year student passionate about data science and AI.
 
 ## About Me
 
@@ -31,9 +31,7 @@ Here are some of the projects I'm currently working on or have contributed to:
 
 ## Connect with Me
 
-- 🌐 [Personal Website/Blog]
-- 🐦 [Twitter](https://twitter.com/your_twitter_handle)
-- 📷 [Instagram](https://www.instagram.com/your_instagram_handle)
+- 🌐 
 - 💼 www.linkedin.com/in/nbouquet
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or if you'd like to collaborate on something exciting. Happy coding!
